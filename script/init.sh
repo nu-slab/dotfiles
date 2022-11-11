@@ -28,7 +28,7 @@ else
     exit 1
 fi
 
-cd ${DOTDIR}/.dotfiles/script
+cd ${DOTDIR}/script
 
 ./backup.sh
 ./uninstall.sh

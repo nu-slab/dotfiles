@@ -10,7 +10,7 @@
 ### :one: Oneline Command Installation
 
 ```shell
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/nu-slab/dotfiles/main/init.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/nu-slab/dotfiles/main/script/init.sh)"
 ```
 
 ### :two: Makefile Installation
